@@ -3,22 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/WineSquad"><img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
-  <a href="https://t.me/radoqi"><img src="https://img.shields.io/badge/Contact-@radoqi-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact"></a>
-  <img src="https://img.shields.io/badge/Python-Async-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Desktop-Tauri%20v2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
-  <img src="https://img.shields.io/badge/TypeScript-React-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tauri-v2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
+  <a href="https://t.me/WineSquad"><img src="https://img.shields.io/badge/Telegram-WineSquad-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="WineSquad"></a>
 </p>
 
 ---
 
 ### ⚡ О себе
-Привет! Я **NanoDev** (`nanodevmc`) — независимый разработчик программного обеспечения и создатель сообщества **WineSquad**.
+Привет! Я **NanoDev** (`nanodevmc`) — независимый разработчик и программный архитектор, автор экосистемы **WineSquad**.
 
-Специализируюсь на проектировании современных архитектур, высоконагруженных сетевых сервисов и десктопных приложений нового поколения:
-* 🖥️ **Desktop & Native Client UI:** проектирование интерфейсов на базе Liquid Glass и Material Design 3.
-* ⚙️ **High Performance Backend & Services:** асинхронные микросервисы, мониторинг и сетевые пайплайны.
-* 🤖 **Telegram Services & Bots:** автоматизация, интеграции и безопасные 2FA-сервисы.
+Специализируюсь на нативном коде, системной производительности и современных десктопных средах:
+* 🦀 **Системный уровень & High Performance:** разработка оптимизированных модулей и быстрых алгоритмов на **C++** и **Rust**.
+* 🖥️ **Десктопные платформы & Инструменты:** создание нативных приложений на **C#** (.NET) и **Tauri v2** в концепции Liquid Glass / Material Design 3.
+* 🤖 **Сервисы & Асинхронные пайплайны:** разработка микросервисов, интеграций и инфраструктурных ботов на **Python** (async).
 
 ---
 

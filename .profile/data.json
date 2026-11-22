@@ -1,7 +1,7 @@
 {
- "key": "ceadc968",
+ "key": "14ce7d01",
  "stars": 2,
- "contributions": 369,
+ "contributions": 373,
  "repos": 4,
  "followers": 0,
  "languages": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 6,
     "day": 22,
     "today": true
    },
@@ -131,7 +131,7 @@
   {
    "name": "oxDesktop",
    "url": "https://github.com/nanodevmc/oxDesktop",
-   "text": "New client based for ExteraGram & exDesktop. This is open source project",
+   "text": "New client based for AyuGram & exDesktop. This is open source project",
    "fork": false,
    "stars": 1,
    "language": "C++",
@@ -142,7 +142,7 @@
   {
    "name": "oxDesktop",
    "url": "https://github.com/nanodevmc/oxDesktop",
-   "text": "New client based for ExteraGram & exDesktop. This is open source project",
+   "text": "New client based for AyuGram & exDesktop. This is open source project",
    "fork": false,
    "stars": 1,
    "language": "C++",

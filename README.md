@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/nanodevmc/oxDesktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-oxdesktop-dark.svg"><img src="assets/project-oxdesktop-light.svg" width="49%" alt="oxDesktop"></picture></a>&nbsp;<a href="https://github.com/nanodevmc/NanoDecompiler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nanodecompiler-dark.svg"><img src="assets/project-nanodecompiler-light.svg" width="49%" alt="NanoDecompiler"></picture></a>
-
-<a href="https://github.com/nanodevmc/nanodevmc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nanodevmc-dark.svg"><img src="assets/project-nanodevmc-light.svg" width="49%" alt="nanodevmc"></picture></a>&nbsp;<a href="https://github.com/nanodevmc/NanoMarket"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nanomarket-dark.svg"><img src="assets/project-nanomarket-light.svg" width="49%" alt="NanoMarket"></picture></a>
+<a href="https://github.com/nanodevmc/oxDesktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-oxdesktop-dark.svg"><img src="assets/project-oxdesktop-light.svg" width="49%" alt="oxDesktop"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

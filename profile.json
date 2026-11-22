@@ -63,11 +63,11 @@
             "label": "Rust"
           },
           {
-            "icon": "brand:golang",
+            "icon": "brand:go",
             "label": "Go"
           },
           {
-            "icon": "brand:cpp",
+            "icon": "brand:c++",
             "label": "C++"
           }
         ]
@@ -80,8 +80,8 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "brand:antigravity",
+            "label": "Antigravity"
           },
           {
             "icon": "brand:githubactions",

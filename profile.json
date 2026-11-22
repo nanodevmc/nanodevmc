@@ -21,17 +21,17 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "I build for you.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Russia, Moscow"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "Rust · Go · C++"
       }
     ]
   },
@@ -40,7 +40,7 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Developer and low-skilled designer"
       },
       {
         "icon": "code",
@@ -59,16 +59,16 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:rust",
+            "label": "Rust"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:golang",
+            "label": "Go"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:cpp",
+            "label": "C++"
           }
         ]
       },

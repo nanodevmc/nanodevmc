@@ -1,32 +1,25 @@
-<p align="center">
-  <img src="assets/banner.png" alt="NanoDev Banner" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Tauri-v2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
-  <a href="https://t.me/WineSquad"><img src="https://img.shields.io/badge/Telegram-WineSquad-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="WineSquad"></a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m nanodevmc"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-### ⚡ О себе
-Привет! Я **NanoDev** (`nanodevmc`) — независимый разработчик и программный архитектор.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-Специализируюсь на нативном коде, системной производительности и современных десктопных средах:
-* 🦀 **Системный уровень & High Performance:** разработка оптимизированных модулей и быстрых алгоритмов на **C++** и **Rust**.
-* 🖥️ **Десктопные платформы & Инструменты:** создание нативных приложений на **C#** (.NET) и **Tauri v2** в концепции Liquid Glass / Material Design 3.
-* 🤖 **Сервисы & Асинхронные пайплайны:** разработка микросервисов, интеграций и инфраструктурных ботов на **Python** (async).
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
----
+<a href="https://github.com/nanodevmc/oxDesktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-oxdesktop-dark.svg"><img src="assets/project-oxdesktop-light.svg" width="49%" alt="oxDesktop"></picture></a>&nbsp;<a href="https://github.com/nanodevmc/NanoDecompiler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nanodecompiler-dark.svg"><img src="assets/project-nanodecompiler-light.svg" width="49%" alt="NanoDecompiler"></picture></a>
 
-### 🌐 Связь братуха
-* 💬 **Прямой контакт:** [t.me/radoqi](https://t.me/radoqi)
-* 🐙 **GitHub:** [github.com/nanodevmc](https://github.com/nanodevmc)
+<a href="https://github.com/nanodevmc/nanodevmc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nanodevmc-dark.svg"><img src="assets/project-nanodevmc-light.svg" width="49%" alt="nanodevmc"></picture></a>&nbsp;<a href="https://github.com/nanodevmc/NanoMarket"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nanomarket-dark.svg"><img src="assets/project-nanomarket-light.svg" width="49%" alt="NanoMarket"></picture></a>
 
-<p align="center">
-  <i>«Дебилизм в каждой строке кода»</i>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/nanodevmc?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=nanodevmc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>

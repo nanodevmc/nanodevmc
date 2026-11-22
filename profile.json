@@ -119,15 +119,7 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://t.me/radoqi"
       }
     ],
     "variant": "chip",
@@ -136,12 +128,6 @@
   },
   "buttons": {
     "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
       {
         "icon": "book_2",
         "label": "All repositories",
